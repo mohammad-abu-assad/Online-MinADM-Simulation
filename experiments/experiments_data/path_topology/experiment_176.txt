@@ -1,0 +1,15 @@
+path topology
+Number of nodes: 5
+Number of paths: 10
+Optimal solution: 13
+The optimal path order:
+[1, 2]
+[2, 3]
+[3, 4]
+[4, 5]
+[1, 2]
+[2, 3]
+[3, 4]
+[4, 5]
+[1, 2, 3]
+[3, 4, 5]

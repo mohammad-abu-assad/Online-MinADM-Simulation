@@ -1,0 +1,10 @@
+ring topology
+Number of nodes: 10
+Number of paths: 5
+Optimal solution: 5
+The optimal path order:
+[1, 2, 3, 4, 5, 6]
+[6, 7, 8, 9]
+[9, 10]
+[10, 1]
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1]
