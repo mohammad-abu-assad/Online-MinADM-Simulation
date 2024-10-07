@@ -162,7 +162,7 @@ Upon launching the application, you will see a graphical interface with the foll
 
 ### ONLINE-MINADM Algorithm
 
-The **ONLINE-MINADM algorithm** is an online approach for wavelength assignment in optical networks, aiming to minimize the number of ADMs used.
+The **ONLINE-MINADM algorithm** is an online approach for wavelength assignment in optical networks, aiming to minimize the number of ADMs used, see more details about the algorithm in Capstone Project Phase A-23-1-R-19.
 
 #### Key Features
 
@@ -205,6 +205,7 @@ The optimal offline solution computes the minimum number of ADMs required by con
 ### Competitive Ratio
 
 The **competitive ratio** is used to measure the performance of the online algorithm relative to the optimal offline solution.
+see more about the analysis and results in Capstone Project Phase B-23-1-R-19
 
 - **Definition**: Competitive Ratio = (Cost of Online Algorithm) / (Cost of Optimal Offline Algorithm)
 - **Interpretation**: A competitive ratio closer to 1 indicates better performance of the online algorithm.
