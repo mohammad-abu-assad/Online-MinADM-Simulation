@@ -162,7 +162,7 @@ Upon launching the application, you will see a graphical interface with the foll
 
 ### ONLINE-MINADM Algorithm
 
-The **ONLINE-MINADM algorithm** is an online approach for wavelength assignment in optical networks, aiming to minimize the number of ADMs used, see more details about the algorithm in Capstone Project Phase A-23-1-R-19.pdf.
+The **ONLINE-MINADM algorithm** is an online approach for wavelength assignment in optical networks, aiming to minimize the number of ADMs used, see more details about the algorithm in [Capstone Project Phase A-23-1-R-19.pdf](docs/A_23_1_R_19.pdf).
 
 #### Key Features
 
